@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/U2_5D_Starter_Kit/static/css/main.05e90d0d.chunk.css",
+    "main.js": "/U2_5D_Starter_Kit/static/js/main.e9153715.chunk.js",
+    "main.js.map": "/U2_5D_Starter_Kit/static/js/main.e9153715.chunk.js.map",
+    "runtime-main.js": "/U2_5D_Starter_Kit/static/js/runtime-main.d91f3e78.js",
+    "runtime-main.js.map": "/U2_5D_Starter_Kit/static/js/runtime-main.d91f3e78.js.map",
+    "static/js/2.bf5edf19.chunk.js": "/U2_5D_Starter_Kit/static/js/2.bf5edf19.chunk.js",
+    "static/js/2.bf5edf19.chunk.js.map": "/U2_5D_Starter_Kit/static/js/2.bf5edf19.chunk.js.map",
+    "index.html": "/U2_5D_Starter_Kit/index.html",
+    "static/css/main.05e90d0d.chunk.css.map": "/U2_5D_Starter_Kit/static/css/main.05e90d0d.chunk.css.map",
+    "static/js/2.bf5edf19.chunk.js.LICENSE.txt": "/U2_5D_Starter_Kit/static/js/2.bf5edf19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d91f3e78.js",
+    "static/js/2.bf5edf19.chunk.js",
+    "static/css/main.05e90d0d.chunk.css",
+    "static/js/main.e9153715.chunk.js"
+  ]
+}
