@@ -2,7 +2,7 @@
     "name": "2dstarterkitdocs",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://IkonicRez.github.io/U5_5D_Starter_Kit",
+    "homepage": "https://IkonicRez.github.io/",
     "dependencies": {
         "@testing-library/jest-dom": "^5.11.5",
         "@testing-library/react": "^11.1.1",
@@ -21,7 +21,7 @@
         "test": "react-scripts test",
         "eject": "react-scripts eject",
         "predeploy": "npm run build",
-        "deploy": "gh-pages -d build"
+        "deploy": "gh-pages -b master -d build"
     },
     "eslintConfig": {
         "extends": [
